@@ -1,0 +1,6 @@
+17. Find the solution for: 790+10*20/2
+a) 789 b) 890
+
+c) 435 d) 760
+
+
